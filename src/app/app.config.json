@@ -1,0 +1,14 @@
+{
+	"appname": "Training 0819",
+	"scope": "BuyerAdmin BuyerReader FullAccess",
+	"clientid": "19D7D20A-1280-4CF1-988C-D2DA013F5D2A",
+	"buyerid": null,
+	"environment": "prod",
+	"anonymous": false,
+	"base": {
+		"left": true,
+		"right": false,
+		"top": true,
+		"bottom": false
+	}
+}
